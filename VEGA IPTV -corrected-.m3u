@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein1p.jpg",Bein Sport 1 Premium
+http://stream.vega-box.com:6066/sport/ch1/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein2p.jpg",Bein Sport 2 Premium
+http://stream.vega-box.com:6066/sport/ch2/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein3p.jpg",Bein Sport 3 Premium
+http://stream.vega-box.com:6066/sport/ch3/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein1.jpg",Bein Sport 1
+http://stream.vega-box.com:6066/sport/ch4/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein2.jpg",Bein Sport 2
+http://stream.vega-box.com:6066/sport/ch5/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein3.jpg",Bein Sport 3
+http://stream.vega-box.com:6066/sport/ch6/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein4.jpg",Bein Sport 4
+http://stream.vega-box.com:6066/sport/ch7/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein5.jpg",Bein Sport 5
+http://stream.vega-box.com:6066/sport/ch8/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein6.jpg",Bein Sport 6
+http://stream.vega-box.com:6066/sport/ch9/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein8.jpg",Bein Sport 8
+http://stream.vega-box.com:6066/sport/ch10/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinnba.jpg",Bein Sport NBA
+http://stream.vega-box.com:6066/sport/ch11/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/shbab1.jpg",Shabab Sport 1
+http://stream.vega-box.com:6066/sport/ch12/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/alkass1.jpg",Alkass 1 HD
+http://stream.vega-box.com:6066/sport/ch13/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/alkass2.jpg",Alkass 2 HD
+http://stream.vega-box.com:6066/sport/ch14/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/alkass3.jpg",Alkass 3 HD
+http://stream.vega-box.com:6066/sport/ch15/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/alkass4.jpg",Alkass 4 HD
+http://stream.vega-box.com:6066/sport/ch16/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinnews.jpg",Bein Sport News
+http://stream.vega-box.com:6066/sport/ch17/adaptive.m3u8
+#EXTINF:0 group-title="SPORT"tvg-logo="http://tv.vega-box.com:81/storage/logos/bein5m.jpg",Bein Sport 5 Max
+http://stream.vega-box.com:6066/sport/ch19/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnmezze.jpg",OSN Mezze
+http://stream.vega-box.com:6066/enter/ch1/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/iqg.jpg",AlIraqia News
+http://stream.vega-box.com:6066/enter/ch2/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/dtx.jpg",DTX
+http://stream.vega-box.com:6066/enter/ch3/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/natgeo.jpg",National Geographic
+http://stream.vega-box.com:6066/enter/ch4/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/NatGeoWild.jpg",Nat Geo Wild
+http://stream.vega-box.com:6066/enter/ch5/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/mtvl.jpg",MTV HD
+http://stream.vega-box.com:6066/enter/ch6/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinGourmet.jpg",Bein Gourmet
+http://stream.vega-box.com:6066/enter/ch7/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/Fatafeat.jpg",Fatafeat
+http://stream.vega-box.com:6066/enter/ch8/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/travel1.jpg",Travel Channel 1
+http://stream.vega-box.com:6066/enter/ch9/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/mbc.jpg",MBC
+http://stream.vega-box.com:6066/enter/ch10/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/travel2.jpg",Travel Channel 2
+http://stream.vega-box.com:6066/enter/ch11/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/hgtv.jpg",HGTV
+http://stream.vega-box.com:6066/enter/ch12/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/fdnt.jpg",Food Network
+http://stream.vega-box.com:6066/enter/ch13/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnliving.jpg",Osn Living
+http://stream.vega-box.com:6066/enter/ch14/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/fxlife.jpg",Fox Life
+http://stream.vega-box.com:6066/enter/ch15/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/natgeopeople.jpg",Nat Geo People
+http://stream.vega-box.com:6066/enter/ch16/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/chv.jpg",Channel V
+http://stream.vega-box.com:6066/enter/ch17/adaptive.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT"tvg-logo="http://tv.vega-box.com:81/storage/logos/mbciraq.jpg",MBC IRAQ
+http://stream.vega-box.com:6066/enter/ch18/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/bm1p.jpg",Bein Movies 1 Premiere
+http://stream.vega-box.com:6066/movies/ch1/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinmovies2.jpg",Bein Movies 2 Action
+http://stream.vega-box.com:6066/movies/ch2/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinmovies3.jpg",Bein Movies 3 Drama
+http://stream.vega-box.com:6066/movies/ch3/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinmovies4.jpg",Bein Movies 4 Family
+http://stream.vega-box.com:6066/movies/ch4/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/foxmov.jpg",Fox Movies
+http://stream.vega-box.com:6066/movies/ch5/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/foxaction.jpg",Fox Action Movies
+http://stream.vega-box.com:6066/movies/ch6/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/foxfamily.jpg",Fox Family Movies
+http://stream.vega-box.com:6066/movies/ch7/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/tcm.jpg",TCM HD
+http://stream.vega-box.com:6066/movies/ch8/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/fox.jpg",FOX
+http://stream.vega-box.com:6066/movies/ch9/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/starworld.jpg",StarWorld HD
+http://stream.vega-box.com:6066/movies/ch10/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/starmovies.jpg",StarMovies
+http://stream.vega-box.com:6066/movies/ch11/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/foxcr.jpg",Fox Crime HD
+http://stream.vega-box.com:6066/movies/ch12/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnmovies.jpg",OSN Movies
+http://stream.vega-box.com:6066/movies/ch13/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnmact.jpg",OSN ACtion
+http://stream.vega-box.com:6066/movies/ch14/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnmfirst.jpg",OSN Movies First
+http://stream.vega-box.com:6066/movies/ch15/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/alfac1.jpg",Alfa Cinema 1
+http://stream.vega-box.com:6066/movies/ch16/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/alfac2.jpg",Alfa Cinema 2
+http://stream.vega-box.com:6066/movies/ch17/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnyahalacinema.jpg",Yahla Cinema
+http://stream.vega-box.com:6066/movies/ch18/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnmco.jpg",OSN Comedy
+http://stream.vega-box.com:6066/movies/ch19/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/ctfbx.jpg",CTF BOX OFFICE
+http://stream.vega-box.com:6066/movies/ch26/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/artcinema.jpg",ART Cinema
+http://stream.vega-box.com:6066/movies/ch21/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/artaflam1.jpg",ART Aflam 1
+http://stream.vega-box.com:6066/movies/ch22/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/artaflam2.jpg",ART Aflam 2
+http://stream.vega-box.com:6066/movies/ch23/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/OSNEngima.jpg",OSN Enigma
+http://stream.vega-box.com:6066/movies/ch24/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/ctf.jpg",CTF 1 Movies
+http://stream.vega-box.com:6066/movies/ch25/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/mbcbollywood.jpg",MBC BollyWood
+http://stream.vega-box.com:6066/movies/ch27/adaptive.m3u8
+#EXTINF:0 group-title="MOVIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/skycc.jpg",Sky Hd Comedy
+http://stream.vega-box.com:6066/movies/ch28/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/Baraem2.jpg",Baraem
+http://stream.vega-box.com:6066/kids/ch1/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/babytv.jpg",Baby Tv
+http://stream.vega-box.com:6066/kids/ch2/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/boom.jpg",Boomerang TV
+http://stream.vega-box.com:6066/kids/ch3/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/cartoonnetwork.jpg",Cartoon Network Arabic
+http://stream.vega-box.com:6066/kids/ch4/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/dreamw.jpg",DreamWorksTV
+http://stream.vega-box.com:6066/kids/ch5/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/cbeebies.jpg",CBeebies
+http://stream.vega-box.com:6066/kids/ch6/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/bej.jpg",Be junior
+http://stream.vega-box.com:6066/kids/ch7/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/jeem.jpg",Jeem TV
+http://stream.vega-box.com:6066/kids/ch8/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/skykids.jpg",Sky HD Kids
+http://stream.vega-box.com:6066/kids/ch9/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/nick.jr.jpg",Nickelodeon
+http://stream.vega-box.com:6066/kids/ch10/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnmovieskids.jpg",OSN Kids
+http://stream.vega-box.com:6066/kids/ch11/adaptive.m3u8
+#EXTINF:0 group-title="KIDS"tvg-logo="http://tv.vega-box.com:81/storage/logos/disju.jpg",Disney Junior HD
+http://stream.vega-box.com:6066/kids/ch12/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinseries1.jpg",Bein Series 1
+http://stream.vega-box.com:6066/series/ch1/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/beinseries2.jpg",Bein Series 2
+http://stream.vega-box.com:6066/series/ch2/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/beindrama1.jpg",Bein Drama 1
+http://stream.vega-box.com:6066/series/ch3/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/fxhd.jpg",FXHD
+http://stream.vega-box.com:6066/series/ch4/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/foxrr.jpg",Fox Rewayat
+http://stream.vega-box.com:6066/series/ch5/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnyahala.jpg",Osn Yahla
+http://stream.vega-box.com:6066/series/ch6/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/ctf.jpg",CTF Sci-Fi
+http://stream.vega-box.com:6066/series/ch7/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/mbcdrama.jpg",MBC Drama HD
+http://stream.vega-box.com:6066/series/ch8/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnseriesfirst.jpg",Osn Series
+http://stream.vega-box.com:6066/series/ch9/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/osnyahalao.jpg",Osn Yahla 1
+http://stream.vega-box.com:6066/series/ch10/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/ctf.jpg",CTF Turk Series
+http://stream.vega-box.com:6066/series/ch11/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/alfass.jpg",Alfa Series
+http://stream.vega-box.com:6066/series/ch12/adaptive.m3u8
+#EXTINF:0 group-title="SERIES"tvg-logo="http://tv.vega-box.com:81/storage/logos/alfayo.jpg",Alfa Alyoum
+http://stream.vega-box.com:6066/series/ch13/adaptive.m3u8
